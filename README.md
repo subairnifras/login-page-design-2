@@ -11,7 +11,7 @@ This is a simple and responsive frontend login page built with HTML, CSS, and op
 
 ## 📸 Screenshot
 
-![Login Page Screenshot](./screenshot.png) <!-- Replace with actual image path or link -->
+![Login Page Screenshot](https://github.com/subairnifras/login-page-design-2/blob/539781094ce007a228ecbfb619a08330ff41cd74/Screenshot%202025-07-26%20201352.png)) 
 
 ## 🛠️ Tech Stack
 
